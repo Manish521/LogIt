@@ -1,6 +1,6 @@
 # LogIt
 
-manishsingh521.pythonanywhere.com/LogIt/
+https://manishsingh521.pythonanywhere.com/LogIt/
 
 Web2Py, Python, HTML, JavaScript, jQuery
 
