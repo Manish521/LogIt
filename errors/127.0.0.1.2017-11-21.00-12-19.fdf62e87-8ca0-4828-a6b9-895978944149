@@ -1,0 +1,733 @@
+(dp1
+S'output'
+p2
+S"<class 'sqlite3.IntegrityError'> FOREIGN KEY constraint failed"
+p3
+sS'layer'
+p4
+S'C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\applications\\Manish_Project_eComplaint\\controllers/default.py'
+p5
+sS'code'
+p6
+S'<code object <module> at 0AC09458, file "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\applications\\Manish_Project_eComplaint\\controllers/default.py", line 11>'
+p7
+sS'snapshot'
+p8
+(dp9
+S'exception'
+p10
+(dp11
+S'__module__'
+p12
+S"'sqlite3'"
+p13
+sS'__getslice__'
+p14
+S"<method-wrapper '__getslice__' of IntegrityError object>"
+p15
+sS'__str__'
+p16
+S"<method-wrapper '__str__' of IntegrityError object>"
+p17
+sS'__reduce__'
+p18
+S'<built-in method __reduce__ of IntegrityError object>'
+p19
+sS'__dict__'
+p20
+S'{}'
+p21
+sS'__sizeof__'
+p22
+S'<built-in method __sizeof__ of IntegrityError object>'
+p23
+sS'__weakref__'
+p24
+S'None'
+p25
+sS'message'
+p26
+S"'FOREIGN KEY constraint failed'"
+p27
+sS'__init__'
+p28
+S"<method-wrapper '__init__' of IntegrityError object>"
+p29
+sS'__setattr__'
+p30
+S"<method-wrapper '__setattr__' of IntegrityError object>"
+p31
+sS'__reduce_ex__'
+p32
+S'<built-in method __reduce_ex__ of IntegrityError object>'
+p33
+sS'__new__'
+p34
+S'<built-in method __new__ of type object>'
+p35
+sS'__format__'
+p36
+S'<built-in method __format__ of IntegrityError object>'
+p37
+sS'__class__'
+p38
+S"<class 'sqlite3.IntegrityError'>"
+p39
+sS'__doc__'
+p40
+S'None'
+p41
+sS'__getitem__'
+p42
+S"<method-wrapper '__getitem__' of IntegrityError object>"
+p43
+sS'__setstate__'
+p44
+S'<built-in method __setstate__ of IntegrityError object>'
+p45
+sS'__getattribute__'
+p46
+S"<method-wrapper '__getattribute__' of IntegrityError object>"
+p47
+sS'args'
+p48
+S"('FOREIGN KEY constraint failed',)"
+p49
+sS'__subclasshook__'
+p50
+S'<built-in method __subclasshook__ of type object>'
+p51
+sS'__unicode__'
+p52
+S'<built-in method __unicode__ of IntegrityError object>'
+p53
+sS'__delattr__'
+p54
+S"<method-wrapper '__delattr__' of IntegrityError object>"
+p55
+sS'__repr__'
+p56
+S"<method-wrapper '__repr__' of IntegrityError object>"
+p57
+sS'__hash__'
+p58
+S"<method-wrapper '__hash__' of IntegrityError object>"
+p59
+ssS'evalue'
+p60
+S'FOREIGN KEY constraint failed'
+p61
+sS'request'
+p62
+cgluon.html
+XML_unpickle
+p63
+(S'src\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">ajax</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">application</td><td style="vertical-align:top;">:</td><td><div>Manish_Project_eComplaint</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">args</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>logout</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cid</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">client</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">controller</td><td style="vertical-align:top;">:</td><td><div>default</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cookies</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">session_id_admin</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-4df4b5fe-eaa0-4b71-b121-50d32c38b0af<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_manish_project_ecomplaint</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-9d20e200-1507-4833-9376-e7d1732c5c5a<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_welcome</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-40b72fc2-70bb-429a-a390-26d295a679c8<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">env</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT</td><td style="vertical-align:top;">:</td><td><div>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT_ENCODING</td><td style="vertical-align:top;">:</td><td><div>gzip, deflate, br</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT_LANGUAGE</td><td style="vertical-align:top;">:</td><td><div>en-US,en;q=0.9</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_CONNECTION</td><td style="vertical-align:top;">:</td><td><div>keep-alive</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_COOKIE</td><td style="vertical-align:top;">:</td><td><div>session_id_welcome=127.0.0.1-40b72fc2-70bb-429a-a390-26d295a679c8; session_id_admin=127.0.0.1-4df4b5fe-eaa0-4b71-b121-50d32c38b0af; session_id_manish_project_ecomplaint=127.0.0.1-9d20e200-1507-4833-9376-e7d1732c5c5a</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_HOST</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1:8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_REFERER</td><td style="vertical-align:top;">:</td><td><div>http://127.0.0.1:8000/Manish_Project_eComplaint/default/index</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_UPGRADE_INSECURE_REQUESTS</td><td style="vertical-align:top;">:</td><td><div>1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_USER_AGENT</td><td style="vertical-align:top;">:</td><td><div>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">PATH_INFO</td><td style="vertical-align:top;">:</td><td><div>/Manish_Project_eComplaint/default/user/logout</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">QUERY_STRING</td><td style="vertical-align:top;">:</td><td><div>_next=/Manish_Project_eComplaint/default/index</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_ADDR</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_PORT</td><td style="vertical-align:top;">:</td><td><div>53640</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REQUEST_METHOD</td><td style="vertical-align:top;">:</td><td><div>GET</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SCRIPT_NAME</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_NAME</td><td style="vertical-align:top;">:</td><td><div>ManishLaptop</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_PORT</td><td style="vertical-align:top;">:</td><td><div>8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_PROTOCOL</td><td style="vertical-align:top;">:</td><td><div>HTTP/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_SOFTWARE</td><td style="vertical-align:top;">:</td><td><div>Rocket 1.2.6</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">app_folders</td><td style="vertical-align:top;">:</td><td><div>set([&#x27;C:\\\\Users\\\\Manish Singh\\\\PycharmProjects\\\\ManishProject\\\\web2py\\\\applications\\\\Manish_Project_eComplaint\\\\&#x27;, &#x27;C:\\\\Users\\\\Manish Singh\\\\PycharmProjects\\\\ManishProject\\\\web2py\\\\applications\\\\welcome\\\\&#x27;, &#x27;C:\\\\Users\\\\Manish Singh\\\\PycharmProjects\\\\ManishProject\\\\web2py\\\\applications\\\\admin\\\\&#x27;])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">applications_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_options</td><td style="vertical-align:top;">:</td><td><div>&lt;Values at 0x3602148: {&#x27;verbose&#x27;: False, &#x27;ip&#x27;: &#x27;127.0.0.1&#x27;, &#x27;debuglevel&#x27;: 30, &#x27;with_scheduler&#x27;: False, &#x27;shutdown_timeout&#x27;: 5, &#x27;taskbar&#x27;: False, &#x27;with_coverage&#x27;: False, &#x27;pid_filename&#x27;: &#x27;httpserver.pid&#x27;, &#x27;maxthreads&#x27;: None, &#x27;softcron&#x27;: False, &#x27;server_name&#x27;: &#x27;ManishLaptop&#x27;, &#x27;bpython&#x27;: False, &#x27;nogui&#x27;: False, &#x27;port&#x27;: 8000, &#x27;print_errors&#x27;: False, &#x27;extcron&#x27;: False, &#x27;runcron&#x27;: False, &#x27;run_system_tests&#x27;: False, &#x27;test&#x27;: None, &#x27;folder&#x27;: &#x27;C:\\\\Users\\\\Manish Singh\\\\PycharmProjects\\\\ManishProject\\\\web2py&#x27;, &#x27;config&#x27;: &#x27;&#x27;, &#x27;minthreads&#x27;: None, &#x27;shell&#x27;: None, &#x27;run&#x27;: &#x27;&#x27;, &#x27;log_filename&#x27;: &#x27;httpserver.log&#x27;, &#x27;profiler_dir&#x27;: None, &#x27;args&#x27;: [&#x27;&#x27;], &#x27;socket_timeout&#x27;: 5, &#x27;ssl_ca_certificate&#x27;: None, &#x27;scheduler&#x27;: None, &#x27;interfaces&#x27;: None, &#x27;ssl_private_key&#x27;: &#x27;&#x27;, &#x27;gae&#x27;: None, &#x27;password&#x27;: &#x27;******&#x27;, &#x27;request_queue_size&#x27;: 5, &#x27;ssl_certificate&#x27;: &#x27;&#x27;, &#x27;cronjob&#x27;: False, &#x27;numthreads&#x27;: None, &#x27;quiet&#x27;: False, &#x27;import_models&#x27;: False, &#x27;timeout&#x27;: 10, &#x27;plain&#x27;: False, &#x27;nobanner&#x27;: False}&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">db_sessions</td><td style="vertical-align:top;">:</td><td><div>set([])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">debugging</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">gluon_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept</td><td style="vertical-align:top;">:</td><td><div>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept_encoding</td><td style="vertical-align:top;">:</td><td><div>gzip, deflate, br</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept_language</td><td style="vertical-align:top;">:</td><td><div>en-US,en;q=0.9</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_connection</td><td style="vertical-align:top;">:</td><td><div>keep-alive</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_cookie</td><td style="vertical-align:top;">:</td><td><div>session_id_welcome=127.0.0.1-40b72fc2-70bb-429a-a390-26d295a679c8; session_id_admin=127.0.0.1-4df4b5fe-eaa0-4b71-b121-50d32c38b0af; session_id_manish_project_ecomplaint=127.0.0.1-9d20e200-1507-4833-9376-e7d1732c5c5a</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_host</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1:8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_referer</td><td style="vertical-align:top;">:</td><td><div>http://127.0.0.1:8000/Manish_Project_eComplaint/default/index</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_upgrade_insecure_requests</td><td style="vertical-align:top;">:</td><td><div>1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_user_agent</td><td style="vertical-align:top;">:</td><td><div>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_jython</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_py2</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_pypy</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_source</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">local_hosts</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>fe80::5c61:c182:70fe:597f%4</div></td></tr><tr><td><div>ManishLaptop</div></td></tr><tr><td><div>10.0.0.89</div></td></tr><tr><td><div>ManishLaptop.hsd1.il.comcast.net</div></td></tr><tr><td><div>2601:241:8301:1097:5c61:c182:70fe:597f</div></td></tr><tr><td><div>::ffff:127.0.0.1</div></td></tr><tr><td><div>::1</div></td></tr><tr><td><div>2601:241:8301:1097::1325</div></td></tr><tr><td><div>2601:241:8301:1097:d472:6ac8:ac8b:2dda</div></td></tr><tr><td><div>fe80::4e8:18f2:b6cc:370f%16</div></td></tr><tr><td><div>2001:0:9d38:6ab8:4e8:18f2:b6cc:370f</div></td></tr><tr><td><div>127.0.0.1</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path_info</td><td style="vertical-align:top;">:</td><td><div>/Manish_Project_eComplaint/default/user/logout</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">query_string</td><td style="vertical-align:top;">:</td><td><div>_next=/Manish_Project_eComplaint/default/index</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_addr</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_port</td><td style="vertical-align:top;">:</td><td><div>53640</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">request_method</td><td style="vertical-align:top;">:</td><td><div>GET</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">request_uri</td><td style="vertical-align:top;">:</td><td><div>/Manish_Project_eComplaint/default/user/logout?_next=/Manish_Project_eComplaint/default/index</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">script_name</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_name</td><td style="vertical-align:top;">:</td><td><div>ManishLaptop</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_port</td><td style="vertical-align:top;">:</td><td><div>8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_protocol</td><td style="vertical-align:top;">:</td><td><div>HTTP/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_software</td><td style="vertical-align:top;">:</td><td><div>Rocket 1.2.6</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_path</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_version</td><td style="vertical-align:top;">:</td><td><div>2.15.4-stable+timestamp.2017.09.02.04.02.22</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.errors</td><td style="vertical-align:top;">:</td><td><div>&lt;open file &#x27;&lt;stderr&gt;&#x27;, mode &#x27;w&#x27; at 0x026FD0D0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.file_wrapper</td><td style="vertical-align:top;">:</td><td><div>&lt;class wsgiref.util.FileWrapper at 0x035C8180&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.input</td><td style="vertical-align:top;">:</td><td><div>&lt;socket._fileobject object at 0x0A963FB0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.multiprocess</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.multithread</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.run_once</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.url_scheme</td><td style="vertical-align:top;">:</td><td><div>http</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.version</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>1</div></td></tr><tr><td><div>0</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_errors</td><td style="vertical-align:top;">:</td><td><div>&lt;open file &#x27;&lt;stderr&gt;&#x27;, mode &#x27;w&#x27; at 0x026FD0D0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_file_wrapper</td><td style="vertical-align:top;">:</td><td><div>&lt;class wsgiref.util.FileWrapper at 0x035C8180&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_input</td><td style="vertical-align:top;">:</td><td><div>&lt;socket._fileobject object at 0x0A963FB0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_multiprocess</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_multithread</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_run_once</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_url_scheme</td><td style="vertical-align:top;">:</td><td><div>http</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_version</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>1</div></td></tr><tr><td><div>0</div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">extension</td><td style="vertical-align:top;">:</td><td><div>html</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">folder</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\applications\\Manish_Project_eComplaint\\</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">function</td><td style="vertical-align:top;">:</td><td><div>user</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">global_settings</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">app_folders</td><td style="vertical-align:top;">:</td><td><div>set([&#x27;C:\\\\Users\\\\Manish Singh\\\\PycharmProjects\\\\ManishProject\\\\web2py\\\\applications\\\\Manish_Project_eComplaint\\\\&#x27;, &#x27;C:\\\\Users\\\\Manish Singh\\\\PycharmProjects\\\\ManishProject\\\\web2py\\\\applications\\\\welcome\\\\&#x27;, &#x27;C:\\\\Users\\\\Manish Singh\\\\PycharmProjects\\\\ManishProject\\\\web2py\\\\applications\\\\admin\\\\&#x27;])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">applications_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_options</td><td style="vertical-align:top;">:</td><td><div>&lt;Values at 0x3602148: {&#x27;verbose&#x27;: False, &#x27;ip&#x27;: &#x27;127.0.0.1&#x27;, &#x27;debuglevel&#x27;: 30, &#x27;with_scheduler&#x27;: False, &#x27;shutdown_timeout&#x27;: 5, &#x27;taskbar&#x27;: False, &#x27;with_coverage&#x27;: False, &#x27;pid_filename&#x27;: &#x27;httpserver.pid&#x27;, &#x27;maxthreads&#x27;: None, &#x27;softcron&#x27;: False, &#x27;server_name&#x27;: &#x27;ManishLaptop&#x27;, &#x27;bpython&#x27;: False, &#x27;nogui&#x27;: False, &#x27;port&#x27;: 8000, &#x27;print_errors&#x27;: False, &#x27;extcron&#x27;: False, &#x27;runcron&#x27;: False, &#x27;run_system_tests&#x27;: False, &#x27;test&#x27;: None, &#x27;folder&#x27;: &#x27;C:\\\\Users\\\\Manish Singh\\\\PycharmProjects\\\\ManishProject\\\\web2py&#x27;, &#x27;config&#x27;: &#x27;&#x27;, &#x27;minthreads&#x27;: None, &#x27;shell&#x27;: None, &#x27;run&#x27;: &#x27;&#x27;, &#x27;log_filename&#x27;: &#x27;httpserver.log&#x27;, &#x27;profiler_dir&#x27;: None, &#x27;args&#x27;: [&#x27;&#x27;], &#x27;socket_timeout&#x27;: 5, &#x27;ssl_ca_certificate&#x27;: None, &#x27;scheduler&#x27;: None, &#x27;interfaces&#x27;: None, &#x27;ssl_private_key&#x27;: &#x27;&#x27;, &#x27;gae&#x27;: None, &#x27;password&#x27;: &#x27;******&#x27;, &#x27;request_queue_size&#x27;: 5, &#x27;ssl_certificate&#x27;: &#x27;&#x27;, &#x27;cronjob&#x27;: False, &#x27;numthreads&#x27;: None, &#x27;quiet&#x27;: False, &#x27;import_models&#x27;: False, &#x27;timeout&#x27;: 10, &#x27;plain&#x27;: False, &#x27;nobanner&#x27;: False}&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">db_sessions</td><td style="vertical-align:top;">:</td><td><div>set([])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">debugging</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">gluon_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_jython</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_py2</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_pypy</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_source</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">local_hosts</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>fe80::5c61:c182:70fe:597f%4</div></td></tr><tr><td><div>ManishLaptop</div></td></tr><tr><td><div>10.0.0.89</div></td></tr><tr><td><div>ManishLaptop.hsd1.il.comcast.net</div></td></tr><tr><td><div>2601:241:8301:1097:5c61:c182:70fe:597f</div></td></tr><tr><td><div>::ffff:127.0.0.1</div></td></tr><tr><td><div>::1</div></td></tr><tr><td><div>2601:241:8301:1097::1325</div></td></tr><tr><td><div>2601:241:8301:1097:d472:6ac8:ac8b:2dda</div></td></tr><tr><td><div>fe80::4e8:18f2:b6cc:370f%16</div></td></tr><tr><td><div>2001:0:9d38:6ab8:4e8:18f2:b6cc:370f</div></td></tr><tr><td><div>127.0.0.1</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_version</td><td style="vertical-align:top;">:</td><td><div>2.15.4-stable+timestamp.2017.09.02.04.02.22</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_https</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_local</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_restful</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_scheduler</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_shell</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">now</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2017, 11, 21, 0, 12, 19, 49000)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">raw_args</td><td style="vertical-align:top;">:</td><td><div>logout</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">raw_extension</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">url</td><td style="vertical-align:top;">:</td><td><div>/Manish_Project_eComplaint/default/user/logout</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">utcnow</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2017, 11, 21, 6, 12, 19, 49000)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi</td><td style="vertical-align:top;">:</td><td><div>&lt;gluon.main.LazyWSGI object at 0x0ACC2990&gt;</div></td></tr></table></div>'
+tRp64
+sS'frames'
+p65
+(lp66
+(dp67
+S'file'
+p68
+S'C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\restricted.py'
+p69
+sS'dump'
+p70
+(dp71
+S'environment'
+p72
+S"{'A': <class 'gluon.html.A'>, 'ANY_OF': <class 'gluon.validators.ANY_OF'>, 'ASSIGNJS': <function ASSIGNJS>, 'Auth': <class 'gluon.tools.Auth'>, 'B': <class 'gluon.html.B'>, 'BEAUTIFY': <class 'gluon.html.BEAUTIFY'>, 'BODY': <class 'gluon.html.BODY'>, 'BR': <class 'gluon.html.BR'>, 'BUTTON': <class 'gluon.html.BUTTON'>, 'CAT': <class 'gluon.html.CAT'>, ...}"
+p73
+sS'ccode'
+p74
+S'<code object <module> at 0AC09458, file "C:\\User...ject_eComplaint\\controllers/default.py", line 11>'
+p75
+ssS'lnum'
+p76
+I219
+sS'lines'
+p77
+(dp78
+I214
+S'    if environment is None:'
+p79
+sI215
+S'        environment = {}'
+p80
+sI216
+S"    environment['__file__'] = layer"
+p81
+sI217
+S"    environment['__name__'] = '__restricted__'"
+p82
+sI218
+S'    try:'
+p83
+sI219
+S'        exec(ccode, environment)'
+p84
+sI220
+S'    except HTTP:'
+p85
+sI221
+S'        raise'
+p86
+sI222
+S'    except RestrictedError:'
+p87
+sI223
+S'        # do not encapsulate (obfuscate) the original RestrictedError'
+p88
+ssS'call'
+p89
+S'(ccode=<code object <module> at 0AC09458, file "C:\\User...ject_eComplaint\\controllers/default.py", line 11>, environment={\'A\': <class \'gluon.html.A\'>, \'ANY_OF\': <class \'gluon.validators.ANY_OF\'>, \'ASSIGNJS\': <function ASSIGNJS>, \'Auth\': <class \'gluon.tools.Auth\'>, \'B\': <class \'gluon.html.B\'>, \'BEAUTIFY\': <class \'gluon.html.BEAUTIFY\'>, \'BODY\': <class \'gluon.html.BODY\'>, \'BR\': <class \'gluon.html.BR\'>, \'BUTTON\': <class \'gluon.html.BUTTON\'>, \'CAT\': <class \'gluon.html.CAT\'>, ...}, layer=r\'C:\\Users\\Manish Singh\\PycharmProjects\\ManishProj...\\Manish_Project_eComplaint\\controllers/default.py\', scode=<code object <module> at 0AC09458, file "C:\\User...ject_eComplaint\\controllers/default.py", line 11>)'
+p90
+sS'func'
+p91
+S'restricted'
+p92
+sa(dp93
+g68
+S'C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\applications\\Manish_Project_eComplaint\\controllers\\default.py'
+p94
+sg70
+(dp95
+S'orderby'
+p96
+S'undefined'
+p97
+sS'db'
+p98
+S'<DAL uri="sqlite://storage.sqlite">'
+p99
+sS'db.crime'
+p100
+S'<Table crime (id, crimetype, incidentdate, incid...reated_on, created_by, modified_on, modified_by)>'
+p101
+sS'links'
+p102
+g97
+sS'db.crime.created_on'
+p103
+S'<pydal.objects.Field object>'
+p104
+ssg76
+I217
+sg77
+(dp105
+I206
+S'def download():'
+p106
+sI207
+S''
+sI208
+S'    return response.download(request, db)'
+p107
+sI209
+S''
+sI210
+S''
+sI211
+S'def call():'
+p108
+sI212
+S''
+sI213
+S'    return service()'
+p109
+sI214
+S''
+sI215
+S''
+ssg89
+S'()'
+p110
+sg91
+S'<module>'
+p111
+sa(dp112
+g68
+S'C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\globals.py'
+p113
+sg70
+(dp114
+S'self'
+p115
+g97
+sS'f'
+S'<function user>'
+p116
+ssg76
+I414
+sg77
+(dp117
+I416
+S'        self._custom_commit = None'
+p118
+sI417
+S'        self._custom_rollback = None'
+p119
+sI418
+S"        self.generic_patterns = ['*']"
+p120
+sI409
+S"        self.flash = ''            # used by the default view layout"
+p121
+sI410
+S'        self.meta = Storage()      # used by web2py_ajax.html'
+p122
+sI411
+S'        self.menu = []             # used by the default view layout'
+p123
+sI412
+S'        self.files = []            # used by web2py_ajax.html'
+p124
+sI413
+S'        self._vars = None'
+p125
+sI414
+S'        self._caller = lambda f: f()'
+p126
+sI415
+S'        self._view_environment = None'
+p127
+ssg89
+S'(f=<function user>)'
+p128
+sg91
+S'<lambda>'
+p129
+sa(dp130
+g68
+S'C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\applications\\Manish_Project_eComplaint\\controllers\\default.py'
+p131
+sg70
+(dp132
+S'rows'
+p133
+g97
+sS'db.crime.created_by'
+p134
+S'<pydal.objects.Field object>'
+p135
+sS').select'
+p136
+g97
+sS'global auth'
+p137
+S'<gluon.tools.Auth object>'
+p138
+sS'global db'
+p139
+S'<DAL uri="sqlite://storage.sqlite">'
+p140
+sS'db.crime'
+p141
+S'<Table crime (id, crimetype, incidentdate, incid...reated_on, created_by, modified_on, modified_by)>'
+p142
+sS'auth.user_id'
+p143
+S'65L'
+p144
+ssg76
+I203
+sg77
+(dp145
+I198
+S"        response.flash = 'Please fill out the form'"
+p146
+sI199
+S"    return{'closureform': closureform}"
+p147
+sI200
+S''
+sI201
+S'def user():'
+p148
+sI202
+S''
+sI203
+S'    return dict(form=auth())'
+p149
+sI204
+S''
+sI205
+S'@cache.action()'
+p150
+sI206
+S'def download():'
+p151
+sI207
+S''
+ssg89
+S'()'
+p152
+sg91
+S'user'
+p153
+sa(dp154
+g68
+S'C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\tools.py'
+p155
+sg70
+(dp156
+S'self'
+p157
+S'<gluon.tools.Auth object>'
+p158
+sS'args'
+p159
+S"['logout']"
+p160
+sS'builtingetattr'
+p161
+S'<built-in function getattr>'
+p162
+ssg76
+I1925
+sg77
+(dp163
+I1920
+S"                       'impersonate', 'not_authorized', 'confirm_registration',"
+p164
+sI1921
+S"                       'bulk_register', 'manage_tokens', 'jwt'):"
+p165
+sI1922
+S"            if len(request.args) >= 2 and args[0] == 'impersonate':"
+p166
+sI1923
+S'                return getattr(self, args[0])(request.args[1])'
+p167
+sI1924
+S'            else:'
+p168
+sI1925
+S'                return getattr(self, args[0])()'
+p169
+sI1926
+S"        elif args[0] == 'cas' and not self.settings.cas_provider:"
+p170
+sI1927
+S"            if args(1) == self.settings.cas_actions['login']:"
+p171
+sI1928
+S'                return self.cas_login(version=2)'
+p172
+sI1929
+S"            elif args(1) == self.settings.cas_actions['validate']:"
+p173
+ssg89
+S'(self=<gluon.tools.Auth object>)'
+p174
+sg91
+S'__call__'
+p175
+sa(dp176
+g68
+S'C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\tools.py'
+p177
+sg70
+(dp178
+S'self'
+p179
+S'<gluon.tools.Auth object>'
+p180
+sS'self.user'
+p181
+S"<Row {'first_name': 'Nitesh', 'last_name': 'Tiwa..., 0, 26, 50), 'registration_key': '', 'id': 65L}>"
+p182
+sS'self.log_event'
+p183
+S'<bound method Auth.log_event of <gluon.tools.Auth object>>'
+p184
+sS'log'
+p185
+S"'User %(id)s Logged-out'"
+p186
+ssg76
+I2978
+sg77
+(dp187
+I2976
+S"            log = self.messages['logout_log']"
+p188
+sI2977
+S'        if self.user:'
+p189
+sI2978
+S'            self.log_event(log, self.user)'
+p190
+sI2979
+S'        if self.settings.login_form != self:'
+p191
+sI2980
+S'            cas = self.settings.login_form'
+p192
+sI2981
+S'            cas_user = cas.get_user()'
+p193
+sI2982
+S'            if cas_user:'
+p194
+sI2973
+S'        if onlogout:'
+p195
+sI2974
+S'            onlogout(self.user)'
+p196
+sI2975
+S'        if log is DEFAULT:'
+p197
+ssg89
+S"(self=<gluon.tools.Auth object>, next='/Manish_Project_eComplaint/default/index', onlogout=None, log='User %(id)s Logged-out')"
+p198
+sg91
+S'logout'
+p199
+sa(dp200
+g68
+S'C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\authapi.py'
+p201
+sg70
+(dp202
+S'origin'
+p203
+S"'auth'"
+p204
+sS'user_id'
+p205
+S'65L'
+p206
+sS'description'
+p207
+S"'User %(id)s Logged-out'"
+p208
+sS'vars'
+p209
+S"<Row {'first_name': 'Nitesh', 'last_name': 'Tiwa..., 0, 26, 50), 'registration_key': '', 'id': 65L}>"
+p210
+sS'builtinstr'
+p211
+S"<type 'str'>"
+p212
+sS').insert'
+p213
+g97
+sS'self.table_event'
+p214
+S'<bound method Auth.table_event of <gluon.tools.Auth object>>'
+p215
+sS'self'
+p216
+S'<gluon.tools.Auth object>'
+p217
+ssg76
+I447
+sg77
+(dp218
+I448
+S''
+sI449
+S'    def id_group(self, role):'
+p219
+sI450
+S'        """'
+p220
+sI451
+S'        Returns the group_id of the group specified by the role'
+p221
+sI442
+S'            user_id = None  # user unknown'
+p222
+sI443
+S'        vars = vars or {}'
+p223
+sI444
+S'        # log messages should not be translated'
+p224
+sI445
+S"        if type(description).__name__ == 'lazyT':"
+p225
+sI446
+S'            description = description.m'
+p226
+sI447
+S'        self.table_event().insert(description=str(description % vars), origin=origin, user_id=user_id)'
+p227
+ssg89
+S"(self=<gluon.tools.Auth object>, description='User %(id)s Logged-out', vars=<Row {'first_name': 'Nitesh', 'last_name': 'Tiwa..., 0, 26, 50), 'registration_key': '', 'id': 65L}>, origin='auth')"
+p228
+sg91
+S'log_event'
+p229
+sa(dp230
+g68
+S'C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\packages\\dal\\pydal\\objects.py'
+p231
+sg70
+(dp232
+S'self'
+p233
+S'<Table auth_event (id, time_stamp, client_ip, user_id, origin, description)>'
+p234
+sS'ret'
+p235
+g97
+sS'row.op_values'
+p236
+S"<bound method OpRow.op_values of <OpRow {'origin..._id': 65L, 'description': 'User 65 Logged-out'}>>"
+p237
+sS'self._db._adapter'
+p238
+S'<pydal.adapters.sqlite.SQLite object>'
+p239
+sS'self._db._adapter.insert'
+p240
+S'<bound method SQLite.insert of <pydal.adapters.sqlite.SQLite object>>'
+p241
+sS'self._db'
+p242
+S'<DAL uri="sqlite://storage.sqlite">'
+p243
+sS'row'
+p244
+S"<OpRow {'origin': 'auth', 'time_stamp': datetime...r_id': 65L, 'description': 'User 65 Logged-out'}>"
+p245
+ssg76
+I734
+sg77
+(dp246
+I736
+S'            for f in self._after_insert:'
+p247
+sI737
+S'                f(row, ret)'
+p248
+sI738
+S'        return ret'
+p249
+sI729
+S''
+sI730
+S'    def insert(self, **fields):'
+p250
+sI731
+S'        row = self._fields_and_values_for_insert(fields)'
+p251
+sI732
+S'        if any(f(row) for f in self._before_insert):'
+p252
+sI733
+S'            return 0'
+p253
+sI734
+S'        ret = self._db._adapter.insert(self, row.op_values())'
+p254
+sI735
+S'        if ret and self._after_insert:'
+p255
+ssg89
+S"(self=<Table auth_event (id, time_stamp, client_ip, user_id, origin, description)>, **fields={'description': 'User 65 Logged-out', 'origin': 'auth', 'user_id': 65L})"
+p256
+sg91
+S'insert'
+p257
+sa(dp258
+g68
+S'C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\base.py'
+p259
+sg70
+(dp260
+S'e'
+S"IntegrityError('FOREIGN KEY constraint failed',)"
+p261
+ssg76
+I486
+sg77
+(dp262
+I481
+S'            self.execute(query)'
+p263
+sI482
+S'        except:'
+p264
+sI483
+S'            e = sys.exc_info()[1]'
+p265
+sI484
+S"            if hasattr(table, '_on_insert_error'):"
+p266
+sI485
+S'                return table._on_insert_error(table, fields, e)'
+p267
+sI486
+S'            raise e'
+p268
+sI487
+S"        if hasattr(table, '_primarykey'):"
+p269
+sI488
+S'            pkdict = dict(['
+p270
+sI489
+S'                (k[0].name, k[1]) for k in fields'
+p271
+sI490
+S'                if k[0].name in table._primarykey])'
+p272
+ssg89
+S"(self=<pydal.adapters.sqlite.SQLite object>, table=<Table auth_event (id, time_stamp, client_ip, user_id, origin, description)>, fields=[(<pydal.objects.Field object>, 'auth'), (<pydal.objects.Field object>, datetime.datetime(2017, 11, 21, 0, 12, 19, 49000)), (<pydal.objects.Field object>, '127.0.0.1'), (<pydal.objects.Field object>, 65L), (<pydal.objects.Field object>, 'User 65 Logged-out')])"
+p273
+sg91
+g257
+sasS'pyver'
+p274
+S'Python 2.7.14: C:\\Python27\\python.exe (prefix: C:\\Python27)'
+p275
+sS'session'
+p276
+g63
+(S'sO\x10\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">auth</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">expiration</td><td style="vertical-align:top;">:</td><td><div>3600</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">hmac_key</td><td style="vertical-align:top;">:</td><td><div>426a4203-38d9-41de-95a7-adf340f266d5</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">last_visit</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2017, 11, 21, 0, 7, 8, 436000)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remember_me</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">user</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">created_by</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">created_on</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2017, 11, 20, 0, 26, 50)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">email</td><td style="vertical-align:top;">:</td><td><div>j5@j.com</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">first_name</td><td style="vertical-align:top;">:</td><td><div>Nitesh</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">id</td><td style="vertical-align:top;">:</td><td><div>65L</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_active</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">last_name</td><td style="vertical-align:top;">:</td><td><div>Tiwari</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">modified_by</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">modified_on</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2017, 11, 20, 0, 26, 50)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">registration_id</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">registration_key</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">reset_password_key</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">utype</td><td style="vertical-align:top;">:</td><td><div>Journalist</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">zipuserjournalist</td><td style="vertical-align:top;">:</td><td><div>60637</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">user_groups</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">68</td><td style="vertical-align:top;">:</td><td><div>user_65</div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">auth_two_factor</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">auth_two_factor_enabled</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">auth_two_factor_tries_left</td><td style="vertical-align:top;">:</td><td><div>3</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">auth_two_factor_user</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">flash</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">last_orderby</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">last_query</td><td style="vertical-align:top;">:</td><td><div>db.auth_user.id&gt;0</div></td></tr></table></div>'
+tRp277
+sS'etype'
+p278
+S"<class 'sqlite3.IntegrityError'>"
+p279
+sS'date'
+p280
+S'Tue Nov 21 00:12:20 2017'
+p281
+sS'response'
+p282
+g63
+(S's\xd9\x1d\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">body</td><td style="vertical-align:top;">:</td><td><div>&lt;cStringIO.StringO object at 0x0ACC2F20&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cookies</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">session_id_manish_project_ecomplaint</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-9d20e200-1507-4833-9376-e7d1732c5c5a<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">delimiters</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>{{</div></td></tr><tr><td><div>}}</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">files</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">flash</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">form_label_separator</td><td style="vertical-align:top;">:</td><td><div>: </div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">formstyle</td><td style="vertical-align:top;">:</td><td><div>table3cols</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">generic_patterns</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>*</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">headers</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">X-Powered-By</td><td style="vertical-align:top;">:</td><td><div>web2py</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">logo</td><td style="vertical-align:top;">:</td><td><div><a class="navbar-brand"><b>LogIt</b></a></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">menu</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div><table><tr><td><div>Home</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/Manish_Project_eComplaint/default/index</div></td></tr><tr><td><div><table></table></div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Log an incident</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/Manish_Project_eComplaint/default/loganincident</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>All Incidents</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>#</div></td></tr><tr><td><div><table><tr><td><div><table><tr><td><div>My Incidents</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/Manish_Project_eComplaint/default/mycrime_journalist</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Other Incidents</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/Manish_Project_eComplaint/default/othercrime_journalist</div></td></tr></table></div></td></tr></table></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">meta</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">models_to_run</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>^\\w+\\.py$</div></td></tr><tr><td><div>^default/\\w+\\.py$</div></td></tr><tr><td><div>^default/user/\\w+\\.py$</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">postprocessing</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_client</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_cookie_compression_level</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_cookie_expires</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_data_name</td><td style="vertical-align:top;">:</td><td><div>session_data_manish_project_ecomplaint</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_file</td><td style="vertical-align:top;">:</td><td><div>&lt;open file &#x27;C:\\\\Users\\\\Manish Singh\\\\PycharmProjects\\\\ManishProject\\\\web2py\\\\applications\\\\Manish_Project_eComplaint\\\\sessions\\\\159\\\\08b\\\\127.0.0.1-9d20e200-1507-4833-9376-e7d1732c5c5a&#x27;, mode &#x27;rb+&#x27; at 0x0AE899C0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_filename</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\applications\\Manish_Project_eComplaint\\sessions\\127.0.0.1-9d20e200-1507-4833-9376-e7d1732c5c5a</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_hash</td><td style="vertical-align:top;">:</td><td><div>40201e9a0f3cd33e8d59a915a27cfad1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-9d20e200-1507-4833-9376-e7d1732c5c5a</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_name</td><td style="vertical-align:top;">:</td><td><div>session_id_manish_project_ecomplaint</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_locked</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_masterapp</td><td style="vertical-align:top;">:</td><td><div>Manish_Project_eComplaint</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_new</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_storage_type</td><td style="vertical-align:top;">:</td><td><div>file</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">status</td><td style="vertical-align:top;">:</td><td><div>200</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">subtitle</td><td style="vertical-align:top;">:</td><td><div>Help other Chicagoans</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">title</td><td style="vertical-align:top;">:</td><td><div>LogIt</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">view</td><td style="vertical-align:top;">:</td><td><div>default/user.html</div></td></tr></table></div>'
+tRp283
+sS'locals'
+p284
+(dp285
+S'query'
+p286
+S'\'INSERT INTO "auth_event"("origin","time_stamp","...1 00:12:19\\\',\\\'127.0.0.1\\\',65,\\\'User 65 Logged-out\\\');\''
+p287
+sS'self'
+p288
+S'<pydal.adapters.sqlite.SQLite object>'
+p289
+sS'e'
+S"IntegrityError('FOREIGN KEY constraint failed',)"
+p290
+sS'fields'
+p291
+S"[(<pydal.objects.Field object>, 'auth'), (<pydal.objects.Field object>, datetime.datetime(2017, 11, 21, 0, 12, 19, 49000)), (<pydal.objects.Field object>, '127.0.0.1'), (<pydal.objects.Field object>, 65L), (<pydal.objects.Field object>, 'User 65 Logged-out')]"
+p292
+sS'table'
+p293
+S'<Table auth_event (id, time_stamp, client_ip, user_id, origin, description)>'
+p294
+sssS'traceback'
+p295
+S'Traceback (most recent call last):\n  File "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\restricted.py", line 219, in restricted\n    exec(ccode, environment)\n  File "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\applications\\Manish_Project_eComplaint\\controllers/default.py", line 217, in <module>\n  File "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\globals.py", line 414, in <lambda>\n    self._caller = lambda f: f()\n  File "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\applications\\Manish_Project_eComplaint\\controllers/default.py", line 203, in user\n    return dict(form=auth())\n  File "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\tools.py", line 1925, in __call__\n    return getattr(self, args[0])()\n  File "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\tools.py", line 2978, in logout\n    self.log_event(log, self.user)\n  File "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\authapi.py", line 447, in log_event\n    self.table_event().insert(description=str(description % vars), origin=origin, user_id=user_id)\n  File "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\packages\\dal\\pydal\\objects.py", line 734, in insert\n    ret = self._db._adapter.insert(self, row.op_values())\n  File "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\base.py", line 486, in insert\n    raise e\nIntegrityError: FOREIGN KEY constraint failed\n'
+p296
+s.

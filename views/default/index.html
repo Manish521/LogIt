@@ -1,0 +1,37 @@
+{{left_sidebar_enabled,right_sidebar_enabled=False,('message' in globals())}}
+{{extend 'layout.html'}}
+
+{{block header}}
+    <header class = "container-fluid background">
+      <div class ="jumbotron text-center">
+        {{if response.title:}}
+            <br/><br/><br/>
+        <h1> LOG IT
+            <h3 style="color: #FFFFFF "><b>{{=response.subtitle or ''}}</b></h3>
+        </h1>
+        {{pass}}
+      </div>
+    </header>
+{{end}}
+
+<div class ="jumbotron">
+    <p style = "font-size: 18px;">
+        <b>LogIt</b> is an attempt to help provide the Chicago freelancer crime journalist community a platform where they can view and cover the incidents that have occurred to Chicago residents.
+        Upon covering the incident and preparing a report they can close the incident marking it complete. <br><br>
+
+        A regular user, who has suffered any kind of incident can create an incident for the reporters to cover. Thereby, helping the community. <br><br>
+
+        If you are a <b>Regular user</b>, please sign up to log an incident.<br>While logging in the incident, you will have the option to describe the incident and also upload relevant file(s).<br>
+        You will also be able to see all your logged incidents under 'All Incidents' categorized on the basis of their status.<br><br>
+
+        If you are a <b>Journalist</b>, please sign up to view the incidents you can cover.<br>While signing up, you will be asked your preferred zip code and incidents occurred in this locality will be highlighted
+        for you.<br>
+        You can view an incident and can choose to cover it.<br>
+        Post covering, you can close the incident and mark it complete or you can also leave the incident and make it available for other reporters.<br>
+        Additionally, you can also log incidents that might have occurred with you.<br>
+        Note: You cannot cover incidents occurred to you.<br><br>
+
+        <b>A major focus has been kept on keeping the user posting the incident completely safe, thus preventing him from spam.</b><br><br>
+        LogIt is taking a step forward to help the community and will be continuously moderated for bad content. However, we are not responsible for any incorrect information posted on this site.
+    </p>
+</div>

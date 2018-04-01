@@ -1,0 +1,21 @@
+(dp1
+S'output'
+p2
+S"<type 'exceptions.TypeError'> id() takes exactly one argument (0 given)"
+p3
+sS'layer'
+p4
+S'C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\applications\\Manish_Project_eComplaint\\controllers/default.py'
+p5
+sS'code'
+p6
+S'<code object <module> at 0B7B98D8, file "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\applications\\Manish_Project_eComplaint\\controllers/default.py", line 11>'
+p7
+sS'snapshot'
+p8
+(dp9
+sS'traceback'
+p10
+S'Traceback (most recent call last):\n  File "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\restricted.py", line 219, in restricted\n    exec(ccode, environment)\n  File "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\applications\\Manish_Project_eComplaint\\controllers/default.py", line 201, in <module>\n  File "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\globals.py", line 414, in <lambda>\n    self._caller = lambda f: f()\n  File "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\tools.py", line 3981, in f\n    return action(*a, **b)\n  File "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\tools.py", line 3981, in f\n    return action(*a, **b)\n  File "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\applications\\Manish_Project_eComplaint\\controllers/default.py", line 100, in crime_regularuser\n    grid = SQLFORM.smartgrid(db.crime, csv=False, onupdate = myonupdate)\n  File "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\sqlhtml.py", line 3235, in smartgrid\n    user_signature=user_signature, **kwargs)\n  File "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\sqlhtml.py", line 2479, in grid\n    next=referrer)\n  File "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\html.py", line 2300, in process\n    self.validate(**kwargs)\n  File "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\html.py", line 2245, in validate\n    onsuccess(self)\n  File "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\applications\\Manish_Project_eComplaint\\controllers/default.py", line 138, in myonupdate\n    db(db[tablename]._id == id).update(**{fieldname: auth.user.id})\n  File "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\packages\\dal\\pydal\\objects.py", line 2250, in update\n    ret = db._adapter.update(table, self.query, row.op_values())\n  File "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\base.py", line 516, in update\n    sql = self._update(table, query, fields)\n  File "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\base.py", line 508, in _update\n    sql_q = self.expand(query, query_env=query_env)\n  File "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\base.py", line 434, in _expand\n    rv = op(first, second, **optional_args)\n  File "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\packages\\dal\\pydal\\dialects\\base.py", line 344, in eq\n    self.expand(second, first.type, query_env=query_env))\n  File "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\packages\\dal\\pydal\\dialects\\__init__.py", line 96, in expand\n    return self.adapter.expand(*args, **kwargs)\n  File "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\base.py", line 444, in _expand\n    rv = self.represent(expression, field_type)\n  File "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\base.py", line 381, in represent\n    return super(SQLAdapter, self).represent(obj, field_type)\n  File "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\packages\\dal\\pydal\\adapters\\base.py", line 334, in represent\n    obj = obj()\nTypeError: id() takes exactly one argument (0 given)\n'
+p11
+s.

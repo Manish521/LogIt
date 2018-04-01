@@ -1,0 +1,875 @@
+(dp1
+S'output'
+p2
+S"<type 'exceptions.ValueError'> dictionary update sequence element #0 has length 1; 2 is required"
+p3
+sS'layer'
+p4
+S'C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\applications\\Manish_Project_eComplaint\\controllers/default.py'
+p5
+sS'code'
+p6
+S'<code object <module> at 0B4F9770, file "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\applications\\Manish_Project_eComplaint\\controllers/default.py", line 11>'
+p7
+sS'snapshot'
+p8
+(dp9
+S'exception'
+p10
+(dp11
+S'__getslice__'
+p12
+S"<method-wrapper '__getslice__' of exceptions.ValueError object>"
+p13
+sS'__str__'
+p14
+S"<method-wrapper '__str__' of exceptions.ValueError object>"
+p15
+sS'__reduce__'
+p16
+S'<built-in method __reduce__ of exceptions.ValueError object>'
+p17
+sS'__dict__'
+p18
+S'{}'
+p19
+sS'message'
+p20
+S"'dictionary update sequence element #0 has length 1; 2 is required'"
+p21
+sS'__sizeof__'
+p22
+S'<built-in method __sizeof__ of exceptions.ValueError object>'
+p23
+sS'__init__'
+p24
+S"<method-wrapper '__init__' of exceptions.ValueError object>"
+p25
+sS'__setattr__'
+p26
+S"<method-wrapper '__setattr__' of exceptions.ValueError object>"
+p27
+sS'__reduce_ex__'
+p28
+S'<built-in method __reduce_ex__ of exceptions.ValueError object>'
+p29
+sS'__new__'
+p30
+S'<built-in method __new__ of type object>'
+p31
+sS'__format__'
+p32
+S'<built-in method __format__ of exceptions.ValueError object>'
+p33
+sS'__class__'
+p34
+S"<type 'exceptions.ValueError'>"
+p35
+sS'__doc__'
+p36
+S"'Inappropriate argument value (of correct type).'"
+p37
+sS'__getitem__'
+p38
+S"<method-wrapper '__getitem__' of exceptions.ValueError object>"
+p39
+sS'__setstate__'
+p40
+S'<built-in method __setstate__ of exceptions.ValueError object>'
+p41
+sS'__getattribute__'
+p42
+S"<method-wrapper '__getattribute__' of exceptions.ValueError object>"
+p43
+sS'args'
+p44
+S"('dictionary update sequence element #0 has length 1; 2 is required',)"
+p45
+sS'__subclasshook__'
+p46
+S'<built-in method __subclasshook__ of type object>'
+p47
+sS'__unicode__'
+p48
+S'<built-in method __unicode__ of exceptions.ValueError object>'
+p49
+sS'__delattr__'
+p50
+S"<method-wrapper '__delattr__' of exceptions.ValueError object>"
+p51
+sS'__repr__'
+p52
+S"<method-wrapper '__repr__' of exceptions.ValueError object>"
+p53
+sS'__hash__'
+p54
+S"<method-wrapper '__hash__' of exceptions.ValueError object>"
+p55
+ssS'evalue'
+p56
+S'dictionary update sequence element #0 has length 1; 2 is required'
+p57
+sS'request'
+p58
+cgluon.html
+XML_unpickle
+p59
+(S'sli\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">ajax</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">application</td><td style="vertical-align:top;">:</td><td><div>Manish_Project_eComplaint</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">args</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>view</div></td></tr><tr><td><div>crime</div></td></tr><tr><td><div>1</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cid</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">client</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">controller</td><td style="vertical-align:top;">:</td><td><div>default</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cookies</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">session_id_admin</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-e6236ed6-f403-42b0-952c-119f2f4561a7<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_manish_project_ecomplaint</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-6b4f64fc-b693-4885-8eb9-5642a662ff9d<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_todo</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-cd4d7697-e6aa-45e1-8974-217c6065d65d<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_welcome</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-d0ab36da-9c5d-467b-8971-bbd48f7b8c35<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">env</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT</td><td style="vertical-align:top;">:</td><td><div>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT_ENCODING</td><td style="vertical-align:top;">:</td><td><div>gzip, deflate, br</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT_LANGUAGE</td><td style="vertical-align:top;">:</td><td><div>en-US,en;q=0.8</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_CONNECTION</td><td style="vertical-align:top;">:</td><td><div>keep-alive</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_COOKIE</td><td style="vertical-align:top;">:</td><td><div>session_id_todo=127.0.0.1-cd4d7697-e6aa-45e1-8974-217c6065d65d; session_id_welcome=127.0.0.1-d0ab36da-9c5d-467b-8971-bbd48f7b8c35; session_id_admin=127.0.0.1-e6236ed6-f403-42b0-952c-119f2f4561a7; session_id_manish_project_ecomplaint=127.0.0.1-6b4f64fc-b693-4885-8eb9-5642a662ff9d</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_HOST</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1:8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_REFERER</td><td style="vertical-align:top;">:</td><td><div>http://127.0.0.1:8000/Manish_Project_eComplaint/default/crime_journalist</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_UPGRADE_INSECURE_REQUESTS</td><td style="vertical-align:top;">:</td><td><div>1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_USER_AGENT</td><td style="vertical-align:top;">:</td><td><div>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">PATH_INFO</td><td style="vertical-align:top;">:</td><td><div>/Manish_Project_eComplaint/default/crime_journalist/view/crime/1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">QUERY_STRING</td><td style="vertical-align:top;">:</td><td><div>_signature=2499cd90d1b371ed43d32cf2e33bd7938711e0f1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_ADDR</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_PORT</td><td style="vertical-align:top;">:</td><td><div>50659</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REQUEST_METHOD</td><td style="vertical-align:top;">:</td><td><div>GET</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SCRIPT_NAME</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_NAME</td><td style="vertical-align:top;">:</td><td><div>ManishLaptop</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_PORT</td><td style="vertical-align:top;">:</td><td><div>8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_PROTOCOL</td><td style="vertical-align:top;">:</td><td><div>HTTP/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_SOFTWARE</td><td style="vertical-align:top;">:</td><td><div>Rocket 1.2.6</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">app_folders</td><td style="vertical-align:top;">:</td><td><div>set([&#x27;C:\\\\Users\\\\Manish Singh\\\\PycharmProjects\\\\ManishProject\\\\web2py\\\\applications\\\\Manish_Project_eComplaint\\\\&#x27;, &#x27;C:\\\\Users\\\\Manish Singh\\\\PycharmProjects\\\\ManishProject\\\\web2py\\\\applications\\\\welcome\\\\&#x27;, &#x27;C:\\\\Users\\\\Manish Singh\\\\PycharmProjects\\\\ManishProject\\\\web2py\\\\applications\\\\admin\\\\&#x27;])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">applications_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_options</td><td style="vertical-align:top;">:</td><td><div>&lt;Values at 0x3fc2148: {&#x27;verbose&#x27;: False, &#x27;ip&#x27;: &#x27;127.0.0.1&#x27;, &#x27;debuglevel&#x27;: 30, &#x27;with_scheduler&#x27;: False, &#x27;shutdown_timeout&#x27;: 5, &#x27;taskbar&#x27;: False, &#x27;with_coverage&#x27;: False, &#x27;pid_filename&#x27;: &#x27;httpserver.pid&#x27;, &#x27;maxthreads&#x27;: None, &#x27;softcron&#x27;: False, &#x27;server_name&#x27;: &#x27;ManishLaptop&#x27;, &#x27;bpython&#x27;: False, &#x27;nogui&#x27;: False, &#x27;port&#x27;: 8000, &#x27;print_errors&#x27;: False, &#x27;extcron&#x27;: False, &#x27;runcron&#x27;: False, &#x27;run_system_tests&#x27;: False, &#x27;test&#x27;: None, &#x27;folder&#x27;: &#x27;C:\\\\Users\\\\Manish Singh\\\\PycharmProjects\\\\ManishProject\\\\web2py&#x27;, &#x27;config&#x27;: &#x27;&#x27;, &#x27;minthreads&#x27;: None, &#x27;shell&#x27;: None, &#x27;run&#x27;: &#x27;&#x27;, &#x27;log_filename&#x27;: &#x27;httpserver.log&#x27;, &#x27;profiler_dir&#x27;: None, &#x27;args&#x27;: [&#x27;&#x27;], &#x27;socket_timeout&#x27;: 5, &#x27;ssl_ca_certificate&#x27;: None, &#x27;scheduler&#x27;: None, &#x27;interfaces&#x27;: None, &#x27;ssl_private_key&#x27;: &#x27;&#x27;, &#x27;gae&#x27;: None, &#x27;password&#x27;: &#x27;******&#x27;, &#x27;request_queue_size&#x27;: 5, &#x27;ssl_certificate&#x27;: &#x27;&#x27;, &#x27;cronjob&#x27;: False, &#x27;numthreads&#x27;: None, &#x27;quiet&#x27;: False, &#x27;import_models&#x27;: False, &#x27;timeout&#x27;: 10, &#x27;plain&#x27;: False, &#x27;nobanner&#x27;: False}&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">db_sessions</td><td style="vertical-align:top;">:</td><td><div>set([])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">debugging</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">gluon_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept</td><td style="vertical-align:top;">:</td><td><div>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept_encoding</td><td style="vertical-align:top;">:</td><td><div>gzip, deflate, br</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept_language</td><td style="vertical-align:top;">:</td><td><div>en-US,en;q=0.8</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_connection</td><td style="vertical-align:top;">:</td><td><div>keep-alive</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_cookie</td><td style="vertical-align:top;">:</td><td><div>session_id_todo=127.0.0.1-cd4d7697-e6aa-45e1-8974-217c6065d65d; session_id_welcome=127.0.0.1-d0ab36da-9c5d-467b-8971-bbd48f7b8c35; session_id_admin=127.0.0.1-e6236ed6-f403-42b0-952c-119f2f4561a7; session_id_manish_project_ecomplaint=127.0.0.1-6b4f64fc-b693-4885-8eb9-5642a662ff9d</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_host</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1:8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_referer</td><td style="vertical-align:top;">:</td><td><div>http://127.0.0.1:8000/Manish_Project_eComplaint/default/crime_journalist</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_upgrade_insecure_requests</td><td style="vertical-align:top;">:</td><td><div>1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_user_agent</td><td style="vertical-align:top;">:</td><td><div>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_jython</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_py2</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_pypy</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_source</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">local_hosts</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>fe80::5c61:c182:70fe:597f%4</div></td></tr><tr><td><div>ManishLaptop</div></td></tr><tr><td><div>10.0.0.89</div></td></tr><tr><td><div>2601:241:8301:1097::8369</div></td></tr><tr><td><div>ManishLaptop.hsd1.il.comcast.net</div></td></tr><tr><td><div>2601:241:8301:1097:5c61:c182:70fe:597f</div></td></tr><tr><td><div>::ffff:127.0.0.1</div></td></tr><tr><td><div>::1</div></td></tr><tr><td><div>2601:241:8301:1097:80b8:6c3a:8a9d:ffd8</div></td></tr><tr><td><div>2001:0:9d38:6ab8:ce:3950:b6cc:370f</div></td></tr><tr><td><div>127.0.0.1</div></td></tr><tr><td><div>fe80::ce:3950:b6cc:370f%13</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path_info</td><td style="vertical-align:top;">:</td><td><div>/Manish_Project_eComplaint/default/crime_journalist/view/crime/1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">query_string</td><td style="vertical-align:top;">:</td><td><div>_signature=2499cd90d1b371ed43d32cf2e33bd7938711e0f1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_addr</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_port</td><td style="vertical-align:top;">:</td><td><div>50659</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">request_method</td><td style="vertical-align:top;">:</td><td><div>GET</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">request_uri</td><td style="vertical-align:top;">:</td><td><div>/Manish_Project_eComplaint/default/crime_journalist/view/crime/1?_signature=2499cd90d1b371ed43d32cf2e33bd7938711e0f1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">script_name</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_name</td><td style="vertical-align:top;">:</td><td><div>ManishLaptop</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_port</td><td style="vertical-align:top;">:</td><td><div>8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_protocol</td><td style="vertical-align:top;">:</td><td><div>HTTP/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_software</td><td style="vertical-align:top;">:</td><td><div>Rocket 1.2.6</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_path</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_version</td><td style="vertical-align:top;">:</td><td><div>2.15.4-stable+timestamp.2017.09.02.04.02.22</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.errors</td><td style="vertical-align:top;">:</td><td><div>&lt;open file &#x27;&lt;stderr&gt;&#x27;, mode &#x27;w&#x27; at 0x030AD0D0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.file_wrapper</td><td style="vertical-align:top;">:</td><td><div>&lt;class wsgiref.util.FileWrapper at 0x03F88180&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.input</td><td style="vertical-align:top;">:</td><td><div>&lt;socket._fileobject object at 0x0B5E3C30&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.multiprocess</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.multithread</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.run_once</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.url_scheme</td><td style="vertical-align:top;">:</td><td><div>http</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.version</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>1</div></td></tr><tr><td><div>0</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_errors</td><td style="vertical-align:top;">:</td><td><div>&lt;open file &#x27;&lt;stderr&gt;&#x27;, mode &#x27;w&#x27; at 0x030AD0D0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_file_wrapper</td><td style="vertical-align:top;">:</td><td><div>&lt;class wsgiref.util.FileWrapper at 0x03F88180&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_input</td><td style="vertical-align:top;">:</td><td><div>&lt;socket._fileobject object at 0x0B5E3C30&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_multiprocess</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_multithread</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_run_once</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_url_scheme</td><td style="vertical-align:top;">:</td><td><div>http</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_version</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>1</div></td></tr><tr><td><div>0</div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">extension</td><td style="vertical-align:top;">:</td><td><div>html</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">folder</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\applications\\Manish_Project_eComplaint\\</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">function</td><td style="vertical-align:top;">:</td><td><div>crime_journalist</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">global_settings</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">app_folders</td><td style="vertical-align:top;">:</td><td><div>set([&#x27;C:\\\\Users\\\\Manish Singh\\\\PycharmProjects\\\\ManishProject\\\\web2py\\\\applications\\\\Manish_Project_eComplaint\\\\&#x27;, &#x27;C:\\\\Users\\\\Manish Singh\\\\PycharmProjects\\\\ManishProject\\\\web2py\\\\applications\\\\welcome\\\\&#x27;, &#x27;C:\\\\Users\\\\Manish Singh\\\\PycharmProjects\\\\ManishProject\\\\web2py\\\\applications\\\\admin\\\\&#x27;])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">applications_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_options</td><td style="vertical-align:top;">:</td><td><div>&lt;Values at 0x3fc2148: {&#x27;verbose&#x27;: False, &#x27;ip&#x27;: &#x27;127.0.0.1&#x27;, &#x27;debuglevel&#x27;: 30, &#x27;with_scheduler&#x27;: False, &#x27;shutdown_timeout&#x27;: 5, &#x27;taskbar&#x27;: False, &#x27;with_coverage&#x27;: False, &#x27;pid_filename&#x27;: &#x27;httpserver.pid&#x27;, &#x27;maxthreads&#x27;: None, &#x27;softcron&#x27;: False, &#x27;server_name&#x27;: &#x27;ManishLaptop&#x27;, &#x27;bpython&#x27;: False, &#x27;nogui&#x27;: False, &#x27;port&#x27;: 8000, &#x27;print_errors&#x27;: False, &#x27;extcron&#x27;: False, &#x27;runcron&#x27;: False, &#x27;run_system_tests&#x27;: False, &#x27;test&#x27;: None, &#x27;folder&#x27;: &#x27;C:\\\\Users\\\\Manish Singh\\\\PycharmProjects\\\\ManishProject\\\\web2py&#x27;, &#x27;config&#x27;: &#x27;&#x27;, &#x27;minthreads&#x27;: None, &#x27;shell&#x27;: None, &#x27;run&#x27;: &#x27;&#x27;, &#x27;log_filename&#x27;: &#x27;httpserver.log&#x27;, &#x27;profiler_dir&#x27;: None, &#x27;args&#x27;: [&#x27;&#x27;], &#x27;socket_timeout&#x27;: 5, &#x27;ssl_ca_certificate&#x27;: None, &#x27;scheduler&#x27;: None, &#x27;interfaces&#x27;: None, &#x27;ssl_private_key&#x27;: &#x27;&#x27;, &#x27;gae&#x27;: None, &#x27;password&#x27;: &#x27;******&#x27;, &#x27;request_queue_size&#x27;: 5, &#x27;ssl_certificate&#x27;: &#x27;&#x27;, &#x27;cronjob&#x27;: False, &#x27;numthreads&#x27;: None, &#x27;quiet&#x27;: False, &#x27;import_models&#x27;: False, &#x27;timeout&#x27;: 10, &#x27;plain&#x27;: False, &#x27;nobanner&#x27;: False}&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">db_sessions</td><td style="vertical-align:top;">:</td><td><div>set([])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">debugging</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">gluon_parent</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_jython</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_py2</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_pypy</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_source</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">local_hosts</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>fe80::5c61:c182:70fe:597f%4</div></td></tr><tr><td><div>ManishLaptop</div></td></tr><tr><td><div>10.0.0.89</div></td></tr><tr><td><div>2601:241:8301:1097::8369</div></td></tr><tr><td><div>ManishLaptop.hsd1.il.comcast.net</div></td></tr><tr><td><div>2601:241:8301:1097:5c61:c182:70fe:597f</div></td></tr><tr><td><div>::ffff:127.0.0.1</div></td></tr><tr><td><div>::1</div></td></tr><tr><td><div>2601:241:8301:1097:80b8:6c3a:8a9d:ffd8</div></td></tr><tr><td><div>2001:0:9d38:6ab8:ce:3950:b6cc:370f</div></td></tr><tr><td><div>127.0.0.1</div></td></tr><tr><td><div>fe80::ce:3950:b6cc:370f%13</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_version</td><td style="vertical-align:top;">:</td><td><div>2.15.4-stable+timestamp.2017.09.02.04.02.22</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_https</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_local</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_restful</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_scheduler</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_shell</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">now</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2017, 11, 14, 14, 3, 0, 872000)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">raw_args</td><td style="vertical-align:top;">:</td><td><div>view/crime/1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">raw_extension</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">url</td><td style="vertical-align:top;">:</td><td><div>/Manish_Project_eComplaint/default/crime_journalist/view/crime/1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">utcnow</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2017, 11, 14, 20, 3, 0, 872000)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi</td><td style="vertical-align:top;">:</td><td><div>&lt;gluon.main.LazyWSGI object at 0x0BE5C310&gt;</div></td></tr></table></div>'
+tRp60
+sS'frames'
+p61
+(lp62
+(dp63
+S'file'
+p64
+S'C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\restricted.py'
+p65
+sS'dump'
+p66
+(dp67
+S'environment'
+p68
+S"{'A': <class 'gluon.html.A'>, 'ANY_OF': <class 'gluon.validators.ANY_OF'>, 'ASSIGNJS': <function ASSIGNJS>, 'Auth': <class 'gluon.tools.Auth'>, 'B': <class 'gluon.html.B'>, 'BEAUTIFY': <class 'gluon.html.BEAUTIFY'>, 'BODY': <class 'gluon.html.BODY'>, 'BR': <class 'gluon.html.BR'>, 'BUTTON': <class 'gluon.html.BUTTON'>, 'CAT': <class 'gluon.html.CAT'>, ...}"
+p69
+sS'ccode'
+p70
+S'<code object <module> at 0B4F9770, file "C:\\User...ject_eComplaint\\controllers/default.py", line 11>'
+p71
+ssS'lnum'
+p72
+I219
+sS'lines'
+p73
+(dp74
+I214
+S'    if environment is None:'
+p75
+sI215
+S'        environment = {}'
+p76
+sI216
+S"    environment['__file__'] = layer"
+p77
+sI217
+S"    environment['__name__'] = '__restricted__'"
+p78
+sI218
+S'    try:'
+p79
+sI219
+S'        exec(ccode, environment)'
+p80
+sI220
+S'    except HTTP:'
+p81
+sI221
+S'        raise'
+p82
+sI222
+S'    except RestrictedError:'
+p83
+sI223
+S'        # do not encapsulate (obfuscate) the original RestrictedError'
+p84
+ssS'call'
+p85
+S'(ccode=<code object <module> at 0B4F9770, file "C:\\User...ject_eComplaint\\controllers/default.py", line 11>, environment={\'A\': <class \'gluon.html.A\'>, \'ANY_OF\': <class \'gluon.validators.ANY_OF\'>, \'ASSIGNJS\': <function ASSIGNJS>, \'Auth\': <class \'gluon.tools.Auth\'>, \'B\': <class \'gluon.html.B\'>, \'BEAUTIFY\': <class \'gluon.html.BEAUTIFY\'>, \'BODY\': <class \'gluon.html.BODY\'>, \'BR\': <class \'gluon.html.BR\'>, \'BUTTON\': <class \'gluon.html.BUTTON\'>, \'CAT\': <class \'gluon.html.CAT\'>, ...}, layer=r\'C:\\Users\\Manish Singh\\PycharmProjects\\ManishProj...\\Manish_Project_eComplaint\\controllers/default.py\', scode=<code object <module> at 0B4F9770, file "C:\\User...ject_eComplaint\\controllers/default.py", line 11>)'
+p86
+sS'func'
+p87
+S'restricted'
+p88
+sa(dp89
+g64
+S'C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\applications\\Manish_Project_eComplaint\\controllers\\default.py'
+p90
+sg66
+(dp91
+sg72
+I193
+sg73
+(dp92
+I182
+S'def call():'
+p93
+sI183
+S'    """'
+p94
+sI184
+S'    exposes services. for example:'
+p95
+sI185
+S'    http://..../[app]/default/call/jsonrpc'
+p96
+sI186
+S'    decorate with @services.jsonrpc the functions to expose'
+p97
+sI187
+S'    supports xml, json, xmlrpc, jsonrpc, amfrpc, rss, csv'
+p98
+sI188
+S'    """'
+p99
+sI189
+S'    return service()'
+p100
+sI190
+S''
+sI191
+S''
+ssg85
+S'()'
+p101
+sg87
+S'<module>'
+p102
+sa(dp103
+g64
+S'C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\globals.py'
+p104
+sg66
+(dp105
+S'self'
+p106
+S'undefined'
+p107
+sS'f'
+S'<function crime_journalist>'
+p108
+ssg72
+I414
+sg73
+(dp109
+I416
+S'        self._custom_commit = None'
+p110
+sI417
+S'        self._custom_rollback = None'
+p111
+sI418
+S"        self.generic_patterns = ['*']"
+p112
+sI409
+S"        self.flash = ''            # used by the default view layout"
+p113
+sI410
+S'        self.meta = Storage()      # used by web2py_ajax.html'
+p114
+sI411
+S'        self.menu = []             # used by the default view layout'
+p115
+sI412
+S'        self.files = []            # used by web2py_ajax.html'
+p116
+sI413
+S'        self._vars = None'
+p117
+sI414
+S'        self._caller = lambda f: f()'
+p118
+sI415
+S'        self._view_environment = None'
+p119
+ssg85
+S'(f=<function crime_journalist>)'
+p120
+sg87
+S'<lambda>'
+p121
+sa(dp122
+g64
+S'C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\tools.py'
+p123
+sg66
+(dp124
+S'action'
+p125
+S'<function crime_journalist>'
+p126
+sS'a'
+S'()'
+p127
+sS'b'
+g19
+ssg72
+I3981
+sg73
+(dp128
+I3976
+S'                    flag = condition'
+p129
+sI3977
+S'                if not flag:'
+p130
+sI3978
+S'                    current.session.flash = self.messages.access_denied'
+p131
+sI3979
+S'                    return call_or_redirect('
+p132
+sI3980
+S'                        self.settings.on_failed_authorization)'
+p133
+sI3981
+S'                return action(*a, **b)'
+p134
+sI3982
+S'            f.__doc__ = action.__doc__'
+p135
+sI3983
+S'            f.__name__ = action.__name__'
+p136
+sI3984
+S'            f.__dict__.update(action.__dict__)'
+p137
+sI3985
+S'            return f'
+p138
+ssg85
+S'(*a=(), **b={})'
+p139
+sg87
+S'f'
+sa(dp140
+g64
+S'C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\tools.py'
+p141
+sg66
+(dp142
+S'action'
+p143
+S'<function crime_journalist>'
+p144
+sS'a'
+S'()'
+p145
+sS'b'
+g19
+ssg72
+I3981
+sg73
+(dp146
+I3976
+S'                    flag = condition'
+p147
+sI3977
+S'                if not flag:'
+p148
+sI3978
+S'                    current.session.flash = self.messages.access_denied'
+p149
+sI3979
+S'                    return call_or_redirect('
+p150
+sI3980
+S'                        self.settings.on_failed_authorization)'
+p151
+sI3981
+S'                return action(*a, **b)'
+p152
+sI3982
+S'            f.__doc__ = action.__doc__'
+p153
+sI3983
+S'            f.__name__ = action.__name__'
+p154
+sI3984
+S'            f.__dict__.update(action.__dict__)'
+p155
+sI3985
+S'            return f'
+p156
+ssg85
+S'(*a=(), **b={})'
+p157
+sg87
+S'f'
+sa(dp158
+g64
+S'C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\applications\\Manish_Project_eComplaint\\controllers\\default.py'
+p159
+sg66
+(dp160
+S'searchable'
+p161
+g107
+sS'builtinFalse'
+p162
+S'False'
+p163
+sS'SQLFORM.grid'
+p164
+S'<function grid>'
+p165
+sS'global SQLFORM'
+p166
+S"<class 'gluon.sqlhtml.SQLFORM'>"
+p167
+sS'editable'
+p168
+g107
+sS'viewargs'
+p169
+g107
+sS'grid'
+p170
+g107
+sS'deletable'
+p171
+g107
+sS'global db'
+p172
+S'<DAL uri="sqlite://storage.sqlite">'
+p173
+sS'csv'
+p174
+g107
+sS'db.crime'
+p175
+S'<Table crime (id, crimetype, incidentdate, incid...reated_on, created_by, modified_on, modified_by)>'
+p176
+ssg72
+I129
+sg73
+(dp177
+I128
+S'    db.crime.status.writable = False'
+p178
+sI129
+S"    grid = SQLFORM.grid(db.crime, csv=False, searchable = False, editable = False, deletable =  False, viewargs={'a'})"
+p179
+sI130
+S"    #grid.add_button('Refresh', URL('crime_journalist'))"
+p180
+sI131
+S''
+sI132
+S"    return{'form': form, 'grid':grid}"
+p181
+sI133
+S''
+sI124
+S'    db.crime.status.writable = False'
+p182
+sI125
+S'    form = SQLFORM(db.crime, request.vars.id).process()'
+p183
+sI126
+S"    #grid = crud.read(db.crime, '1')"
+p184
+sI127
+S'    db.crime.status.readable = False'
+p185
+ssg85
+S'()'
+p186
+sg87
+S'crime_journalist'
+p187
+sa(dp188
+g64
+S'C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\sqlhtml.py'
+p189
+sg66
+(dp190
+S'sqlformargs.update'
+p191
+S'<built-in method update of dict object>'
+p192
+sS'viewargs'
+p193
+S"set(['a'])"
+p194
+sS'sqlformargs'
+p195
+S"{'_class': 'web2py_form', 'formstyle': 'table3cols', 'ignore_rw': False, 'readonly': True, 'upload': <function <lambda>>}"
+p196
+ssg72
+I2451
+sg73
+(dp197
+I2446
+S'                        record[field] = represent_none'
+p198
+sI2447
+S'            sqlformargs = dict(upload=upload, ignore_rw=ignore_rw,'
+p199
+sI2448
+S'                               formstyle=formstyle, readonly=True,'
+p200
+sI2449
+S"                               _class='web2py_form')"
+p201
+sI2450
+S'            sqlformargs.update(formargs)'
+p202
+sI2451
+S'            sqlformargs.update(viewargs)'
+p203
+sI2452
+S'            view_form = SQLFORM(table, record, **sqlformargs)'
+p204
+sI2453
+S'            res = DIV(buttons(edit=editable, record=record), view_form,'
+p205
+sI2454
+S'                      formfooter, _class=_class)'
+p206
+sI2455
+S'            res.create_form = create_form'
+p207
+ssg85
+S"(query=<Table crime (id, crimetype, incidentdate, incid...reated_on, created_by, modified_on, modified_by)>, fields=[<pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>], field_id=<pydal.objects.Field object>, left=None, headers={}, orderby=None, groupby=None, searchable=False, sortable=True, paginate=20, deletable=False, editable=False, details=True, selectable=None, create=True, csv=False, links=None, links_in_grid=True, upload=<function <lambda>>, args=[], user_signature=True, maxtextlengths={}, maxtextlength=20, onvalidation=None, onfailure=None, oncreate=None, onupdate=None, ondelete=None, sorter_icons=(&#x25B2;, &#x25BC;), ui={'button': 'button btn btn-default', 'buttonadd': 'icon plus icon-plus glyphicon glyphicon-plus', 'buttonback': 'icon leftarrow icon-arrow-left glyphicon glyphicon-arrow-left', 'buttondelete': 'icon trash icon-trash glyphicon glyphicon-trash', 'buttonedit': 'icon pen icon-pencil glyphicon glyphicon-pencil', 'buttonexport': 'icon downarrow icon-download glyphicon glyphicon-download', 'buttontable': 'icon rightarrow icon-arrow-right glyphicon glyphicon-arrow-right', 'buttontext': 'buttontext button', 'buttonview': 'icon magnifier icon-zoom-in glyphicon glyphicon-zoom-in', 'content': '', ...}, showbuttontext=True, _class='web2py_grid', formname='web2py_grid', search_widget='default', advanced_search=True, ignore_rw=False, formstyle='table3cols', exportclasses=None, formargs={}, createargs={}, editargs={}, viewargs=set(['a']), selectable_submit_button='Submit', buttons_placement='right', links_placement='right', noconfirm=False, cache_count=None, client_side_delete=False, ignore_common_filters=None, auto_pagination=True, use_cursor=False, represent_none=None, showblobs=False)"
+p208
+sg87
+S'grid'
+p209
+sasS'pyver'
+p210
+S'Python 2.7.14: C:\\Python27\\python.exe (prefix: C:\\Python27)'
+p211
+sS'session'
+p212
+g59
+(S's\xd8\x0b\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">auth</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">expiration</td><td style="vertical-align:top;">:</td><td><div>3600</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">hmac_key</td><td style="vertical-align:top;">:</td><td><div>cb35d983-a7b1-477c-9560-5768800b4997</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">last_visit</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2017, 11, 14, 13, 59, 20, 573000)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">user</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">created_by</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">created_on</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2017, 11, 14, 13, 38, 33)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">email</td><td style="vertical-align:top;">:</td><td><div>j1@j.com</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">first_name</td><td style="vertical-align:top;">:</td><td><div>Journalist</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">id</td><td style="vertical-align:top;">:</td><td><div>59L</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_active</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">last_name</td><td style="vertical-align:top;">:</td><td><div>Test</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">modified_by</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">modified_on</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2017, 11, 14, 13, 38, 33)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">registration_id</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">registration_key</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">reset_password_key</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">utype</td><td style="vertical-align:top;">:</td><td><div>Journalist</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">user_groups</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">62</td><td style="vertical-align:top;">:</td><td><div>user_59</div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">flash</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr></table></div>'
+tRp213
+sS'etype'
+p214
+S"<type 'exceptions.ValueError'>"
+p215
+sS'date'
+p216
+S'Tue Nov 14 14:03:05 2017'
+p217
+sS'response'
+p218
+g59
+(S's\xfa%\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">body</td><td style="vertical-align:top;">:</td><td><div>&lt;cStringIO.StringO object at 0x0B3FF480&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cookies</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">session_id_manish_project_ecomplaint</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-6b4f64fc-b693-4885-8eb9-5642a662ff9d<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">delimiters</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>{{</div></td></tr><tr><td><div>}}</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">files</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">flash</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">form_label_separator</td><td style="vertical-align:top;">:</td><td><div>: </div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">formstyle</td><td style="vertical-align:top;">:</td><td><div>table3cols</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">generic_patterns</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>*</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">google_analytics_id</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">headers</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">X-Powered-By</td><td style="vertical-align:top;">:</td><td><div>web2py</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">logo</td><td style="vertical-align:top;">:</td><td><div><a class="navbar-brand" href="http://www.web2py.com/" id="web2py-logo"><b>web<span>2</span>py</b>&trade;&nbsp;</a></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">menu</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div><table><tr><td><div>Home</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/Manish_Project_eComplaint/default/index</div></td></tr><tr><td><div><table></table></div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>My Sites</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/admin/default/site</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>This App</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>#</div></td></tr><tr><td><div><table><tr><td><div><table><tr><td><div>Design</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/admin/default/design/Manish_Project_eComplaint</div></td></tr></table></div></td></tr><tr><td><div><li class="divider"></li></div></td></tr><tr><td><div><table><tr><td><div>Controller</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/admin/default/edit/Manish_Project_eComplaint/controllers/default.py</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>View</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/admin/default/edit/Manish_Project_eComplaint/views/default/crime_journalist.html</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>DB Model</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/admin/default/edit/Manish_Project_eComplaint/models/db.py</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Menu Model</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/admin/default/edit/Manish_Project_eComplaint/models/menu.py</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Config.ini</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/admin/default/edit/Manish_Project_eComplaint/private/appconfig.ini</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Layout</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/admin/default/edit/Manish_Project_eComplaint/views/layout.html</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Stylesheet</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/admin/default/edit/Manish_Project_eComplaint/static/css/web2py-bootstrap3.css</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Database</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/Manish_Project_eComplaint/appadmin/index</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Errors</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/admin/default/errors/Manish_Project_eComplaint</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>About</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/admin/default/about/Manish_Project_eComplaint</div></td></tr></table></div></td></tr></table></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">meta</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">models_to_run</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>^\\w+\\.py$</div></td></tr><tr><td><div>^default/\\w+\\.py$</div></td></tr><tr><td><div>^default/crime_journalist/\\w+\\.py$</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">postprocessing</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_client</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_cookie_compression_level</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_cookie_expires</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_data_name</td><td style="vertical-align:top;">:</td><td><div>session_data_manish_project_ecomplaint</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_file</td><td style="vertical-align:top;">:</td><td><div>&lt;open file &#x27;C:\\\\Users\\\\Manish Singh\\\\PycharmProjects\\\\ManishProject\\\\web2py\\\\applications\\\\Manish_Project_eComplaint\\\\sessions\\\\17b\\\\09f\\\\127.0.0.1-6b4f64fc-b693-4885-8eb9-5642a662ff9d&#x27;, mode &#x27;rb+&#x27; at 0x0B8BD7B0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_filename</td><td style="vertical-align:top;">:</td><td><div>C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\applications\\Manish_Project_eComplaint\\sessions\\127.0.0.1-6b4f64fc-b693-4885-8eb9-5642a662ff9d</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_hash</td><td style="vertical-align:top;">:</td><td><div>61567b3f034e733b80c23095d12e5191</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-6b4f64fc-b693-4885-8eb9-5642a662ff9d</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_name</td><td style="vertical-align:top;">:</td><td><div>session_id_manish_project_ecomplaint</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_locked</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_masterapp</td><td style="vertical-align:top;">:</td><td><div>Manish_Project_eComplaint</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_new</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_storage_type</td><td style="vertical-align:top;">:</td><td><div>file</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">status</td><td style="vertical-align:top;">:</td><td><div>200</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">subtitle</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">title</td><td style="vertical-align:top;">:</td><td><div>Manish Project Ecomplaint</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">view</td><td style="vertical-align:top;">:</td><td><div>default/crime_journalist.html</div></td></tr></table></div>'
+tRp219
+sS'locals'
+p220
+(dp221
+S'search_widget'
+p222
+S"'default'"
+p223
+sS'searchable'
+p224
+g163
+sS'fetch_count'
+p225
+S'<function fetch_count>'
+p226
+sS'paginate'
+p227
+S'20'
+p228
+sg212
+S"<Storage {'_formkey[policeman/create]': ['970fba... 20, 573000), 'user_groups': {62L: 'user_59'}}>}>"
+p229
+sS'keywords'
+p230
+S"''"
+p231
+sS'query'
+p232
+S'<Table crime (id, crimetype, incidentdate, incid...reated_on, created_by, modified_on, modified_by)>'
+p233
+sS'tables'
+p234
+S'[<Table crime (id, crimetype, incidentdate, incid...reated_on, created_by, modified_on, modified_by)>]'
+p235
+sS'logged'
+p236
+S"<Row {'first_name': 'Journalist', 'last_name': '...3), 'registration_key': '', 'email': 'j1@j.com'}>"
+p237
+sS'update_form'
+p238
+S'None'
+p239
+sS'buttons'
+p240
+S'<function buttons>'
+p241
+sS'ignore_rw'
+p242
+g163
+sS'user_signature'
+p243
+S'True'
+p244
+sS'onvalidation'
+p245
+S'None'
+p246
+sS'dbset'
+p247
+S'<Set ("crime"."id" IS NOT NULL)>'
+p248
+sS'columns'
+p249
+S'[<pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>]'
+p250
+sS'onfailure'
+p251
+S'None'
+p252
+sS'use_cursor'
+p253
+g163
+sS'ignore_common_filters'
+p254
+S'None'
+p255
+sS'db'
+p256
+S'<DAL uri="sqlite://storage.sqlite">'
+p257
+sS'filter1'
+p258
+S'<function <lambda>>'
+p259
+sS'T'
+S'<gluon.languages.translator object>'
+p260
+sS'gridbutton'
+p261
+S'<function gridbutton>'
+p262
+sS'filter2'
+p263
+S'<function <lambda>>'
+p264
+sS'formname'
+p265
+S"'web2py_grid'"
+p266
+sS'csv'
+p267
+g163
+sS'fields'
+p268
+S'[<pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>, <pydal.objects.Field object>]'
+p269
+sS'editargs'
+p270
+g19
+sS'upload'
+p271
+S'<function <lambda>>'
+p272
+sS'referrer'
+p273
+S"'/Manish_Project_eComplaint/default/crime_journal...ignature=900b603d99ebb16a4e7232f97e09e2faf9fa5203'"
+p274
+sS'oncreate'
+p275
+S'None'
+p276
+sS'table'
+p277
+S'<Table crime (id, crimetype, incidentdate, incid...reated_on, created_by, modified_on, modified_by)>'
+p278
+sS'client_side_delete'
+p279
+g163
+sS'formstyle'
+p280
+S"'table3cols'"
+p281
+sS'formfooter'
+p282
+S'<gluon.html.DIV object>'
+p283
+sS'create_form'
+p284
+S'None'
+p285
+sS'headers'
+p286
+g19
+sS'maxtextlengths'
+p287
+g19
+sS'url2'
+p288
+S'<function url2>'
+p289
+sg44
+S'[]'
+p290
+sS'tablenames'
+p291
+S"{'crime': <Table crime (id, crimetype, incidentdate, incid...reated_on, created_by, modified_on, modified_by)>}"
+p292
+sS'links_in_grid'
+p293
+g244
+sS'selectable_submit_button'
+p294
+S"'Submit'"
+p295
+sS'search_form'
+p296
+S'None'
+p297
+sS'showbuttontext'
+p298
+g244
+sS'links_placement'
+p299
+S"'right'"
+p300
+sS'groupby'
+p301
+S'None'
+p302
+sS'exportclasses'
+p303
+S'None'
+p304
+sS'wenabled'
+p305
+g244
+sS'viewargs'
+p306
+S"set(['a'])"
+p307
+sS'cache_count'
+p308
+S'None'
+p309
+sS'selectable'
+p310
+S'None'
+p311
+sS'onupdate'
+p312
+S'None'
+p313
+sS'rows'
+p314
+S'None'
+p315
+sS'createargs'
+p316
+g19
+sS'create'
+p317
+g244
+sS'tablename'
+p318
+S"'crime'"
+p319
+sS'formargs'
+p320
+g19
+sS'fix_orderby'
+p321
+S'<function fix_orderby>'
+p322
+sS'represent_none'
+p323
+S'None'
+p324
+sS'linsert'
+p325
+S'<function linsert>'
+p326
+sS'auto_pagination'
+p327
+g244
+sS'ondelete'
+p328
+S'None'
+p329
+sS'editable'
+p330
+g163
+sS'deletable'
+p331
+g163
+sS'orderby'
+p332
+S'None'
+p333
+sS'sortable'
+p334
+g244
+sS'f'
+S'[]'
+p335
+sS'record'
+p336
+S"<Row {'status': '1', 'journalistincharge': None,...cidentlocation_2': 'taylor', 'incidentZC': None}>"
+p337
+sS'ui'
+p338
+S"{'button': 'button btn btn-default', 'buttonadd': 'icon plus icon-plus glyphicon glyphicon-plus', 'buttonback': 'icon leftarrow icon-arrow-left glyphicon glyphicon-arrow-left', 'buttondelete': 'icon trash icon-trash glyphicon glyphicon-trash', 'buttonedit': 'icon pen icon-pencil glyphicon glyphicon-pencil', 'buttonexport': 'icon downarrow icon-download glyphicon glyphicon-download', 'buttontable': 'icon rightarrow icon-arrow-right glyphicon glyphicon-arrow-right', 'buttontext': 'buttontext button', 'buttonview': 'icon magnifier icon-zoom-in glyphicon glyphicon-zoom-in', 'content': '', ...}"
+p339
+sS'k'
+S"'_after_insert'"
+p340
+sS'view_form'
+p341
+S'None'
+p342
+sS'links'
+p343
+S'None'
+p344
+sS'sorter_icons'
+p345
+S'(&#x25B2;, &#x25BC;)'
+p346
+sS'maxtextlength'
+p347
+S'20'
+p348
+sS'sqlformargs'
+p349
+S"{'_class': 'web2py_form', 'formstyle': 'table3cols', 'ignore_rw': False, 'readonly': True, 'upload': <function <lambda>>}"
+p350
+sS'showblobs'
+p351
+g163
+sS'details'
+p352
+g244
+sS'_class'
+p353
+S"'web2py_grid'"
+p354
+sS'advanced_search'
+p355
+g244
+sS'field_id'
+p356
+S'<pydal.objects.Field object>'
+p357
+sS'noconfirm'
+p358
+g163
+sg218
+S"<Storage {'body': <cStringIO.StringO object at 0...7CDB0>, 'view': 'default/crime_journalist.html'}>"
+p359
+sS'url'
+p360
+S'<function url>'
+p361
+sg58
+S"<Storage {'_vars': <Storage {'_signature': '2499...2py\\\\applications\\\\Manish_Project_eComplaint\\\\'}>"
+p362
+sS'buttons_placement'
+p363
+S"'right'"
+p364
+sS'left'
+p365
+S'None'
+p366
+sssS'traceback'
+p367
+S'Traceback (most recent call last):\n  File "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\restricted.py", line 219, in restricted\n    exec(ccode, environment)\n  File "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\applications\\Manish_Project_eComplaint\\controllers/default.py", line 193, in <module>\n  File "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\globals.py", line 414, in <lambda>\n    self._caller = lambda f: f()\n  File "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\tools.py", line 3981, in f\n    return action(*a, **b)\n  File "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\tools.py", line 3981, in f\n    return action(*a, **b)\n  File "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\applications\\Manish_Project_eComplaint\\controllers/default.py", line 129, in crime_journalist\n    grid = SQLFORM.grid(db.crime, csv=False, searchable = False, editable = False, deletable =  False, viewargs={\'a\'})\n  File "C:\\Users\\Manish Singh\\PycharmProjects\\ManishProject\\web2py\\gluon\\sqlhtml.py", line 2451, in grid\n    sqlformargs.update(viewargs)\nValueError: dictionary update sequence element #0 has length 1; 2 is required\n'
+p368
+s.

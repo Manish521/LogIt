@@ -1,0 +1,15 @@
+How to run: 
+
+PART 1
+1. CMD --> directory --> ./Part1;
+2. npm install
+2. ng serve;
+3. Browswer --> http://localhost:4200
+  
+
+PART 2
+1. CMD --> directory --> ./WeatherApp;
+2. npm install;
+3. npm start;
+4. Browser should open up
+5. Happy testing :)

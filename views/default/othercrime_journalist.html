@@ -1,0 +1,30 @@
+{{extend 'layout.html'}}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>All other crimes - Journalist</title>
+</head>
+<body>
+<h2>Hello, {{=auth.user.first_name}}</h2>
+<br/>
+
+<h5>
+    <b>Open incidents in your preferred area:</b>
+</h5>
+
+{{=preferredzipcodeincidentsgrid}}
+
+<br/>
+
+<h5>
+    <b>All other open incidents:</b>
+</h5>
+
+{{=allotherincidentsgrid}}
+</body>
+<script>
+
+</script>
+</html>

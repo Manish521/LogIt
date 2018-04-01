@@ -1,0 +1,39 @@
+{{extend 'layout.html'}}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Crime - Journalist</title>
+</head>
+<body>
+<h2>Hello, {{=auth.user.first_name}}</h2>
+<br/>
+
+<h5>
+    <b>Incidents raised by you:</b> You cannot cover incidents raised by you
+</h5>
+
+{{=mycreatedincidentsgrid}}
+
+<br/>
+
+<h5>
+    <b>Incidents you are covering:</b>
+</h5>
+
+{{=myworkingincidentsgrid}}
+
+<br/>
+<h5>
+    <b>Incidents you covered:</b>
+</h5>
+
+{{=myclosedincidentsgrid}}
+
+<br/><br/>
+</body>
+<script>
+
+</script>
+</html>

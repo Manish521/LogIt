@@ -1,0 +1,39 @@
+{{extend 'layout.html'}}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Crime - RegularUser</title>
+</head>
+<body>
+<h2>Hello, {{=auth.user.first_name}}</h2>
+<br/>
+
+<h5>
+    <b>Your open incidents:</b> These incidents are not being picked up by any journalists yet
+</h5>
+
+{{=myopenincidentsgrid}}
+
+<br/>
+
+<h5>
+    <b>Your in-progress incidents:</b> These incidents are picked up by a journalist and are being worked on
+</h5>
+
+{{=myinprogressincidentsgrid}}
+
+<br/>
+<h5>
+    <b>Your completed incidents:</b> These incidents was covered by a journalist and is closed. Please view the incident details for closure comments and a report
+</h5>
+
+{{=myclosedincidentsgrid}}
+
+<br/><br/>
+</body>
+<script>
+
+</script>
+</html>

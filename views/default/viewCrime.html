@@ -1,0 +1,151 @@
+{{extend 'layout.html'}}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>View crime - For now for Journalist</title>
+</head>
+<body>
+<h2>View Incident</h2>
+<br/><br/>
+    {{if request.args(0):}}
+        {{for row in rows:}}
+            <form>
+                <div>
+                    <table style="width: 100%;height:100px;padding: 15px;">
+                        <tr>
+                            <td stylewidth><label>Incident Type: </label> </td>
+                            <td>{{=row.crimetype}}</td>
+                        </tr>
+                        <tr>
+                            <td><label>Incident Date: </label></td>
+                            <td>{{=row.incidentdate}}</td>
+                        </tr>
+                        <tr>
+                            <td><label>Incident Location: </label></td>
+                            <td>{{=row.incidentlocation_1}} & {{=row.incidentlocation_2}}</td>
+                        </tr>
+                        <tr>
+                            <td><label>Incident Zipcode: </label></td>
+                            <td>{{=row.incidentZC}}</td>
+                        </tr>
+                        <tr>
+                            <td><label>Description: </label></td>
+                            <td>{{=row.incidentdesc}}</td>
+                        </tr>
+                        <tr>
+                            <td><label>User Attachment: </label></td>
+                            {{if row.attachmentreguser:}}
+                                <td><a href="{{=URL('download', args=row.attachmentreguser, scheme=True)}}">Download Attachment</a> </td>
+                              {{else:}}
+                                <td>No Attachment</td>
+                              {{pass}}
+
+                        </tr>
+                        <tr>
+                            <td><label>Posted on:</label></td>
+                            <td>{{=row.created_on}}</td>
+                        </tr>
+                        <tr>
+                            <td><label>Posted by:</label></td>
+                            <td>{{=row.created_by.first_name}}&nbsp;{{=row.created_by.last_name}} </td>
+                        </tr>
+
+                        <tr>
+                            <td><label>Covered by:</label></td>
+                            {{if row.journalistincharge:}}
+                                <td>{{=row.journalistincharge.first_name}}&nbsp;{{=row.journalistincharge.last_name}} </td>
+                            {{else:}}
+                                <td>-</td>
+                            {{pass}}
+                        </tr>
+
+                        {{if row.status == 'Completed' and row.journalistcomments:}}
+                            <tr>
+                                <td><label>Closure comments:</label></td>
+                                <td>{{=row.journalistcomments}}</td>
+                            </tr>
+                        {{pass}}
+
+                        {{if row.status == 'Completed' and row.attachmentjournalist:}}
+                            <tr>
+                                <td><label>Journalist Report:</label></td>
+                                <td><a href="{{=URL('download', args=row.attachmentjournalist, scheme=True)}}">Download Attachment</a> </td>
+                            </tr>
+                        {{pass}}
+                    </table>
+                    <br/><br/>
+                    <table>
+                        <tr>
+                            <td>
+                                <button type="button" style="display:block;" class="btn btn-primary"
+                                  onclick="history.back(-1)">Go Back
+                                </button>&nbsp;
+                            </td>
+                            {{if auth.user.utype == 'Journalist':}}
+                                <td>
+                                    <button id="cover-incident" type="button" style="display:none;" title='Click to follow this incident!' class="btn btn-primary"
+                                      onclick="
+                                        if (confirm('Please confirm if you want to follow this incident?')) {
+                                            jQuery.ajax('{{=URL('formonupdate', args=row.id)}}');
+                                            location.reload();
+                                            }
+                                        ">Cover Incident
+                                    </button> &nbsp;
+                                </td>
+                                <td>
+                                    <button type="button" id="close-incident" style="display:none;" title='Click to close this incident!' class="btn btn-primary"
+                                      onclick='window.location="{{=URL('default', 'closeincident', args=[row.id])}}";'>Close Incident</button> &nbsp;
+                                </td>
+                                <td>
+                                    <button type="button" id="leave-incident" style="display:none;" title='Click to leave this incident!' class="btn btn-primary"
+                                      onclick="
+                                        if (confirm('Please confirm if you want to leave this incident?')) {
+                                            jQuery.ajax('{{=URL('leaveincident', args=row.id)}}');
+                                            location.reload();
+                                            }
+                                        ">Leave incident</button> &nbsp;
+                                </td>
+                                <td>
+                                    <button type="button" id="email-journalist" disabled = "true" style="display:none;" title='Click to email the journalist following the incident currently!(Could not complete this on time)' class="btn btn-primary"
+                                      onclick="
+                                        if (confirm('Please confirm if you want to leave this incident?')) {
+                                            jQuery.ajax('{{=URL('emailjournalist', args=row.id)}}');
+                                            location.reload();
+                                            }
+                                        ">Email Journalist</button> &nbsp;
+                                </td>
+
+                            {{pass}}
+                        </tr>
+                    </table>
+                </div>
+            </form>
+        {{pass}}
+    {{else:}}
+        <h5>Please take the proper route to reach this page by clicking on the view incident link from your incidents page</h5>
+    {{pass}}
+</body>
+<script>
+    var closeinc = document.getElementById("close-incident");
+    var coverinc = document.getElementById("cover-incident");
+    var leaveinc = document.getElementById("leave-incident");
+    var emailjournalist = document.getElementById("email-journalist");
+    {{if request.args(0):}}
+        {{if row.journalistincharge:}}
+            {{if row.status == 'Open' and row.journalistincharge != auth.user.id:}}
+                coverinc.style.display = "block";
+            {{pass}}
+            {{if row.journalistincharge == auth.user.id and row.status == 'In Progress':}}
+                closeinc.style.display = "block";
+                leaveinc.style.display = "block";
+            {{pass}}
+        {{else:}}
+            {{if row.created_by != auth.user.id:}}
+                coverinc.style.display = "block";
+                //emailjournalist.style.display = "block";
+            {{pass}}
+        {{pass}}
+    {{pass}}
+</script>
+</html>
